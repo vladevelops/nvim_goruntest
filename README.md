@@ -1,3 +1,5 @@
+![download](https://github.com/vladevelops/nvim_goruntest/assets/122153525/2486f67c-241a-4925-a57f-970fa0197f31)
+
 # Go Test Runner for Neovim
 
 This Neovim configuration allows you to run Go tests from anywhere within test scope, focusing on the test function under the cursor. It provides a simple set of functions and a keybinding to streamline your Go testing workflow.
@@ -7,6 +9,7 @@ This Neovim configuration allows you to run Go tests from anywhere within test s
 - **Run Go tests under the cursor:** Automatically detects the test function name and executes it.
 - **Simple integration:** Easily add the provided functions to your Neovim configuration.
 - **Cache cleanup:** Cleans the Go test cache before running tests to ensure fresh results.
+
 
 ## Installation
 
